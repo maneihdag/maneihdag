@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm maneihdag 👋
 
-<!--
-**maneihdag/maneihdag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical tools, small experiments and gaming utilities.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### HDT One-Click Collection Exporter
+
+One-click local JSON export for Hearthstone Deck Tracker.
+
+- Local-first
+- No browser automation
+- No HSReplay OAuth token handling
+- No web scraping
+- English + Italian
+
+[View project](https://github.com/maneihdag/hdt-one-click-collection-exporter)
+
+---
+
+More projects and experiments coming soon.
